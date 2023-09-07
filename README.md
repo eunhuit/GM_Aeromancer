@@ -9,7 +9,7 @@
 
 ## Topic
 ```sh
-Undecided
+- Predict the weather by measuring humidity using Arduino's DHT11 or DHT22 sensor and atmospheric pressure using BMP180 or BMP280.
 ```
 
 ## Status
